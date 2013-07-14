@@ -34,3 +34,10 @@ $ python test_function1.py
 ```bash
 $ python test_function2.py
 ```
+
+More Info:
+----------
+
+2.7 [http://docs.python.org/2/library/unittest.html](http://docs.python.org/2/library/unittest.html)
+
+3.3 [http://docs.python.org/3.3/library/unittest.html](http://docs.python.org/3.3/library/unittest.html)
