@@ -10,5 +10,5 @@ Each subfolder will have examples and tutorials in differnt frameworks and tools
 * Integration Tests
 * Test Runners and Test Layout
 * Other Things
-** doctest
-** Behavior Driven Development (BDD)
+ * doctest
+ * Behavior Driven Development (BDD)
