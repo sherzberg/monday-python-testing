@@ -24,6 +24,7 @@ class MyTest(unittest.TestCase):
 ```
 
 Tutorial:
+---------
 
 This tutorial has one already written function with failing tests and one failing test for an unwritten function. Fix them:
 
