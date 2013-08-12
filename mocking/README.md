@@ -2,7 +2,8 @@ Mocking & Patching
 ==================
 
 Mocking and patching are very similar to PowerMock or Mockito in Java, just with a pythonic api. 
-Mocks allow you to mock out any function, method call ,or callable. They also capture call parameters and call counts.
+Mocks allow you to mock out any callable with new return values or even side effects (exceptions).
+They also capture call parameters and call counts.
 
 Patches are bit different and use the python import system to "patch" imported classes and fuctions with new things.
 These are useful when a method you are wanting to test creates new objects and you want to replace the whole object
