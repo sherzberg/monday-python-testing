@@ -18,12 +18,14 @@ from unittest.mock import Mock, patch
 from functions import cwd
 
 class MyClass(object):
-    pass
+    def method(x, y):
+        return x * y
     
 cls = MyClass()
 cls.method = Mock(return_value=42)
-cls.method(4,2)
+result = cls.method(4,2)
 cls.method.assert_called_with(4,2)
+assert result == 42
 
 def create_stuff():
     return MyClass()
