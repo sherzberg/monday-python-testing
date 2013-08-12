@@ -1,7 +1,7 @@
 unittest
 ========
 
-Unit test is the "batteries-included" testing framework so nothing extra needs to be installed to create and run unit tests. It is very similar to how junit and nunit works.
+unittest is the "batteries-included" testing framework so nothing extra needs to be installed to create and run unit tests. It is very similar to how junit and nunit works.
 
 > _Note_: These tests assume python is python 2.7
 
@@ -21,6 +21,9 @@ class MyTest(unittest.TestCase):
 
     def tearDown(self):
         print('tear down')
+        
+if __name__ == '__main__':
+    unittest.main(verbosity=2)
 ```
 
 Tutorial:
