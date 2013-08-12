@@ -18,10 +18,10 @@ $ lsb_release -a
 
 Outline
 --------
+* Integration Testing
+ * Selenium IDE
+ * Sikuli IDE
 * [unittest](unittest/README.md)
 * [Mocking/Patching](mocking/README.md)
-* Integration Tests
 * [Test Runners and Coverage](runners/README.md)
-* Other Things
- * doctest
- * Behavior Driven Development (BDD)
+* doctest
