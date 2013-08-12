@@ -27,7 +27,8 @@ $ python -m doctest
 Tutorial:
 ---------
 
-This tutorial has a few functions and doctests written or left out. Try and make them all pass. Note we have a _if __name__ == '__main__':_ in there so just do:
+This tutorial has a few functions and doctests written or left out. 
+Try and make them all pass. Note we have a if __name__ == '__main__': in there so just do:
 
 ```bash
 $ python math.py
