@@ -19,7 +19,7 @@ $ lsb_release -a
 Outline
 --------
 * [unittest](unittest/README.md)
-* Mocking/Patching
+* [Mocking/Patching](mocking/README.md)
 * Integration Tests
 * Test Runners and Test Layout
 * Other Things
