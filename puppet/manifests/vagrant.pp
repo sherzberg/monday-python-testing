@@ -10,7 +10,7 @@ package {'python-deps':
 }
 
 package {'pip-deps':
-  name => ['tox'],
+  name => ['tox', 'nose', 'coverage'],
   ensure => present,
   provider => pip,
   require => Package['python-deps'],

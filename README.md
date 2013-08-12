@@ -21,7 +21,7 @@ Outline
 * [unittest](unittest/README.md)
 * [Mocking/Patching](mocking/README.md)
 * Integration Tests
-* Test Runners and Test Layout
+* [Test Runners and Coverage](runners/README.md)
 * Other Things
  * doctest
  * Behavior Driven Development (BDD)
