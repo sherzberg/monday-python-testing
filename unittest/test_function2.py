@@ -3,7 +3,7 @@ import unittest
 from functions import function2
 
 
-class TestFunction1(unittest.TestCase):
+class TestFunction2(unittest.TestCase):
 
     def test_negative_param(self):
         self.fail()
