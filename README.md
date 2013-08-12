@@ -24,4 +24,4 @@ Outline
 * [unittest](unittest/README.md)
 * [Mocking/Patching](mocking/README.md)
 * [Test Runners and Coverage](runners/README.md)
-* doctest
+* [doctest](doctest/README.md)
